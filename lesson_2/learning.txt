@@ -1,0 +1,23 @@
+first.  回顾 HTML / CSS / Javascript 的关系
+
+second. 学习 vscode / http-server
+
+third.  创建一个html / css的 项目并布置好结构 并使用 http-server 启动服务
+
+
+
+1. 
+HTML 负责什么 -- 布局框架
+CSS 负责什么  -- 布局样式,
+Javascript 负责什么  -- 布局交互
+HTML CSS  如何配合使用 ?  -- 
+
+
+2. 
+仅仅知道如何使用即可.
+vscode
+http-server
+
+
+3.
+自己创建一个html / css 简单项目, 设置基础的css / images 目录结构

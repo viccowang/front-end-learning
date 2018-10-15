@@ -1,0 +1,21 @@
+div {
+  margin: 20px;
+  padding: 10px;
+  border-radius:8px;
+}
+#block-1 {
+  background-color:#cbcbcb;
+}
+
+.block-2 {
+  border: 1px solid #cbcbcb;
+}
+
+.give-me-hover {
+  background:orange;
+}
+
+[custom-prop] {
+  font-weight:600;
+  color: red;
+}

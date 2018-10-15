@@ -1,0 +1,21 @@
+
+CSS 盒子模型
+display:inline-block;
+display:block;
+box-sizing: border-box; // 不计算内外边距和边框
+box-sizing: content-box; // 计算内外边距和边框
+
+CSS 属性分类
+
+什么东西, 长什么样, 放哪里, 有什么效果
+
+表现属性 (chrome devtools css 图示)
+width, height, margin, padding, font, color, background, display
+transform, translate, animation
+
+位置属性
+position left, top , right, bottom, z-index,
+
+伪类属性
+hover, before, after
+
