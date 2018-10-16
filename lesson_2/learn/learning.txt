@@ -1,9 +1,10 @@
+// 2018.10.16
+
 first.  回顾 HTML / CSS / Javascript 的关系
 
 second. 学习 vscode / http-server
 
 third.  创建一个html / css的 项目并布置好结构 并使用 http-server 启动服务
-
 
 
 1. 
@@ -19,5 +20,14 @@ vscode
 http-server
 
 
-3.
-自己创建一个html / css 简单项目, 设置基础的css / images 目录结构
+cd 目录
+..
+http-server
+
+=================================================================
+实战:
+1.自己创建一个html / css 简单项目, 设置基础的css / images 目录结构
+2.创建index.html 并初始化文档
+3.index.html 录入文字 Hello, Zhu Hui xue !
+4.使用css将文字标成红色
+5.使用http-server启动服务并通过浏览器打开预览.

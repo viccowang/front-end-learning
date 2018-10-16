@@ -1,9 +1,4 @@
-
-CSS 盒子模型
-display:inline-block;
-display:block;
-box-sizing: border-box; // 不计算内外边距和边框
-box-sizing: content-box; // 计算内外边距和边框
+// 2018.10.18
 
 CSS 属性分类
 
@@ -14,8 +9,33 @@ width, height, margin, padding, font, color, background, display
 transform, translate, animation
 
 位置属性
-position left, top , right, bottom, z-index,
+float, position left, top , right, bottom, z-index,
 
 伪类属性
 hover, before, after
+
+==============================
+
+实战:
+尝试使用 HTML / CSS 布局: 
+1. header left content footer 使用不同的背景色
+2. 边框宽度为1像素
+3. 网页整体宽度为800px
+4. header高度为80px, left 宽度为 120px, content 为 800px - 120px,
+   footer高度为120px
+
+--------------------------------
+|           header              |
+---------------------------------
+------------  -------------------
+|           | |                 |
+|           | |                 |
+|    left   | |    content      |
+|           | |                 |
+|           | |                 |
+|           | |                 |
+------------- -------------------
+---------------------------------
+|          footer                |
+---------------------------------
 
