@@ -1,12 +1,7 @@
-// 2018.10.23
-
-回顾 CSS 属性分类
-表现属性, 位置属性,  伪类属性
-
-===================================================
+# 2018.10.23
 
 CSS 盒子模型
-display: block / inline-block / flex
+display: block / inline-block
 box-sizing: border-box / content-box
 
 ====================================================
