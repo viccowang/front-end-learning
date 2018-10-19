@@ -1,5 +1,21 @@
 // 2018.10.19
 
+// 复习 如何定义样式
+
+1. 内联定义
+<div style="color:red" ></div>
+
+2. 页面内样式
+<style>
+  .className { color: red }
+</style>
+
+3. 独立样式文件
+  <link rel="stylesheet" href="style.css">
+
+
+// 学习常用属性
+
 CSS 属性分类
 
 什么东西, 长什么样, 放哪里, 有什么效果
