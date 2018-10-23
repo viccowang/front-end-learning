@@ -1,0 +1,14 @@
+// 2018.10.23
+
+今日主要内容是复习和巩固
+position 属性以及相关用法
+
+position:  static / relative / absolute
+
+top, right, bottom, left ( 提及: margin, padding 顺序 )
+
+z-index 层级
+
+===============================================================
+实战:
+继续完成如图所示的布局.
