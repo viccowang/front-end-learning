@@ -1,9 +1,15 @@
-# 2018.10.23
+# 2018.10.26
 
 CSS 盒子模型
 width / height / padding / margin / border
-display: block / inline-block
+display: block / inline-block / inline                      / flex
 box-sizing: border-box / content-box
+
+box-sizing: content-box;
+实际大小 = 内容 + 内边距padding + 边框border + 外边距margin
+
+box-sizing: border-box;
+实际大小 = 宽 高 （不计算其他属性）
 
 ====================================================
 
