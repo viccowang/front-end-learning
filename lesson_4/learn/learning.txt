@@ -1,12 +1,13 @@
 # 2018.10.23
 
 CSS 盒子模型
+width / height / padding / margin / border
 display: block / inline-block
 box-sizing: border-box / content-box
 
 ====================================================
 
 实战:
-1. 充分理解CSS盒子模型中的两种box-sizing模式.
+1. 充分理解CSS盒子模型以及其中的两种box-sizing模式.
 2. 做如下布局(如图learning.png)
   - 矩形长宽120px,两个间距为20px
