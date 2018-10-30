@@ -1,0 +1,14 @@
+.box{
+    display: inline-block;
+    height: 120px;
+    width: 120px;
+    background:pink;
+    margin: 10px;
+
+}
+.bigbox{
+    display: inline-block;
+    width: 600px;
+    height: 600px;
+
+}
