@@ -13,5 +13,9 @@
 #### Lesson 4
 > 学习CSS盒子模型
 #### Lesson 5
-> 基础布局
+> 复习
+#### Lesson 6.1
+> 学习Flex
+#### Lesson 6.2
+> 学习Flex
 
