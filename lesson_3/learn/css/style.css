@@ -1,5 +1,19 @@
-.fangkuang{
+.box{
+    left:100px;
+    top:150px;
     width: 500px;
     height:120px;
     background:#f5f5f5;
+}
+
+.beauty{
+ display: inline-block; /* box model 盒子模型 */
+ background: pink;
+}
+
+.little{
+    margin:10px;
+    width: 250px;
+    height:150px;
+    background:burlywood;
 }
