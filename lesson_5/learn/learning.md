@@ -19,5 +19,6 @@
 4. header高度为80px, nav 宽度为 120px
     nav 和 content 之间有外边距20px
    footer高度为120px
+5. content 内的block 大小根据实际情况自定, 布局需按照图示完成.   
 
 ---
