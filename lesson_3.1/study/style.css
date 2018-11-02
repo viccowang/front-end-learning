@@ -1,0 +1,82 @@
+.box1{
+    
+    width: 200px;
+    height:200px;
+    background: pink;
+
+}
+.box2{
+    position: relative;
+    left:120px;
+    top:120px;
+    width: 50px;
+    height: 50px;
+    background: red;
+}
+.square1{
+    position: relative;
+    margin-top: 30px;
+    width: 200px;
+    height:200px;
+    background: red;
+}
+.square2{
+    position: absolute;
+    left: 190px;
+    top:-20px;
+    width: 50px;
+    height: 50px;
+    background: pink;
+}
+.hezi1{
+    position: relative;
+    margin-top: 30px;
+    width: 200px;
+    height:200px;
+    background: rgb(228, 29, 247);
+    
+}
+.hezi2{
+    position: absolute;
+    z-index:-1;
+    left: 190px;
+    top:-20px;
+    width: 50px;
+    height: 50px;
+    background: rgb(158, 14, 38);
+   
+}
+.fangkuai1{
+    position: relative;
+    top:30px;
+    width: 200px;
+    height:200px;
+    left: 10px;
+    background: rgb(184, 255, 51);
+    z-index:-1px;
+}
+.fangkuai2{
+    position: absolute;
+    left: 190px;
+    top:-20px;
+    width: 50px;
+    height: 50px;
+    background: blue;
+}
+.fangkuai3{
+    position: absolute;
+    left: -10px;
+    top:190px;
+    width: 50px;
+    height: 50px;
+    background: blue;
+}
+.box{
+    position: fixed;
+    top: 500px;
+    height:600px;
+    left: 500px;
+    width: 200px;
+    height: 200px;
+    background: pink;
+}
