@@ -1,0 +1,80 @@
+.banner{
+    width: 1000px;
+    height: 80px;
+    background: rgb(151, 213, 255);
+}
+.shulie{
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    width: 120px;
+    height: 800px;
+    background: rgb(255, 189, 255);
+}
+.bigbox{
+    display: inline-block;
+    position: absolute;
+    z-index: -10;
+    left: 140px;
+    top:100px;
+    width: 860px;
+    height: 800px;
+    background:rgb(195, 248, 195);
+
+}
+.small{
+    display: inline-block;
+    position: relative;
+    width: 144px;
+    height: 140px;
+    background: rgb(255, 255, 255);
+    margin: 10px;
+
+}
+.bbox{
+    display:inline-block;
+    position: absolute;
+    top:100;
+    width: 720px;
+    height: 500px;
+    background: rgb(255, 237, 237);
+}
+.box1{
+    display: inline-block;
+    position: relative;
+    left: 10px;
+    top: 10px;
+    right: 10px;
+    bottom: 10px;
+
+}
+.box2{
+    display: inline-block;
+    
+}
+.box2-1{
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    left: 20px;
+    width: 820px;
+    height: 450px;
+    background: yellowgreen;
+}
+.box2-2{
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    top:20px;
+    width: 300px;
+    height: 300px;
+    background: rgb(227, 255, 68);
+}
+.footer{
+    display: inline-block;
+    position: absolute;
+    top:910px;
+    width: 1000px;
+    height: 120px;
+    background: rgb(56, 168, 56);
+}
